@@ -1,0 +1,10 @@
+{
+ "url": "https://fragment.com",
+ "name": "Fragment",
+ "iconBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAl0lEQVR4nO3aQRGDUADE0JBBBrhqNdQSaEAWQsAEfzikT0BmBey0fLaLMImTOImTOImTOImTOImTOImTOImTOImTOImTOImTuHlE9Dx+jLJ+90d7EidxEidxEidxEidxEidxEidxEidxEidxEidxEidxEidx0/8rHCdxEidxEidxEidxEidxEidxEidxEidxEidxvj3gbTetPweP2Aip2AAAAABJRU5ErkJggg==",
+ "permissions": {
+  "ton_proof": {
+   "proof_payload": ""
+  }
+ }
+}
